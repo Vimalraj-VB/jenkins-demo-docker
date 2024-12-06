@@ -8,6 +8,7 @@ public class DemoJenkinsDockerApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(DemoJenkinsDockerApplication.class, args);
+		System.out.println("The Application is Started ........ !!!!");
 	}
 
 }
